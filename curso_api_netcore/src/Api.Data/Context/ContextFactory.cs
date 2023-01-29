@@ -10,11 +10,11 @@ namespace Api.Data.Context
             //Usado para criar as migrações
             // var connectionString = "Server=localhost;Port=3306;Database=dbAPI;Uid=root;Pwd=1234";
 
-            var connectionStringServer = "Server=DESKTOP-N4S8L6T;Initial Catalog=DBApi;MultipleActiveResultSets=true;User ID=root;Password=1234";
+            var connectionStringServer = "Persist Security Info=True;Server=DESKTOP-N4S8L6T;Initial Catalog=DBApi_Integration;MultipleActiveResultSets=true;User ID=root;Password=1234";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             // optionsBuilder.UseMySql(connectionString);
             optionsBuilder.UseSqlServer(connectionStringServer);
-            
+
             return new MyContext(optionsBuilder.Options);
         }
     }

@@ -1,6 +1,6 @@
 using System;
 using Api.Data.Context;
-using Api.Data.Mapping.Implementations;
+using Api.Data.Implementations;
 using Api.Data.Repository;
 using Api.Domain.Interfaces;
 using Api.Domain.Repository;

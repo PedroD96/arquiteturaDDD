@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 using Api.Data.Context;
-using Api.Data.Mapping.Implementations;
+using Api.Data.Implementations;
 using Api.Domain.Entities;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
