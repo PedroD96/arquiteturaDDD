@@ -11,4 +11,5 @@ D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\c
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
-d:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig

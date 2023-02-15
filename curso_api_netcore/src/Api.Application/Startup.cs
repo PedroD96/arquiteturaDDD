@@ -42,16 +42,16 @@ namespace application
                 Environment.SetEnvironmentVariable("Issuer", "ExemploIssuer");
                 Environment.SetEnvironmentVariable("Seconds", "28800");
             }
-
             services.AddControllers();
+
             ConfigureService.ConfigrueDependenciesService(services);
             ConfigureRepository.ConfigrueDependenciesService(services);
 
             var config = new AutoMapper.MapperConfiguration(cfg =>
             {
-                cfg.AddProfile(new DtoToModelProfile());
-                cfg.AddProfile(new EntityToDtoProfile());
                 cfg.AddProfile(new ModelToEntityProfile());
+                cfg.AddProfile(new EntityToDtoProfile());
+                cfg.AddProfile(new DtoToModelProfile());
             });
 
             IMapper mapper = config.CreateMapper();
@@ -87,8 +87,8 @@ namespace application
             services.AddAuthorization(auth =>
             {
                 auth.AddPolicy("Bearer", new AuthorizationPolicyBuilder()
-                                             .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme)
-                                             .RequireAuthenticatedUser().Build());
+                    .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme‌​)
+                    .RequireAuthenticatedUser().Build());
             });
 
             services.AddSwaggerGen(c =>

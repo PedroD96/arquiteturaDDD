@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CEDTC7QMCRky7LFIEmOmmdjRfh/jKxF5Hi/fESLRkWKPKDitTy7u/nAWZ+/HAeje3sfRF9+Y6D8pkFRGoDkqeg==",
+  "dgSpecHash": "jNS+yYLapU1CeePr/odSkRnBwZ54hBjuYznVR8RsC3ujFvuh88IsHtdXsgm75TiHnOvfIxvN2slBTrrxrs6FlA==",
   "success": true,
   "projectFilePath": "D:\\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [

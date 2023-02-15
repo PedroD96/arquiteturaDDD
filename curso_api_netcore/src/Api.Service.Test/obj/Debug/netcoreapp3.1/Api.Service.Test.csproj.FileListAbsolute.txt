@@ -147,4 +147,5 @@ D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\c
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.genruntimeconfig.cache
 d:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
 d:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
-D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csprojAssemblyReference.cache
+D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
+D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.AssemblyReference.cache

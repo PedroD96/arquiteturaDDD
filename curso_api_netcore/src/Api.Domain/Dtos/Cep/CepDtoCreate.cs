@@ -17,6 +17,6 @@ namespace Api.Domain.Dtos.Cep
         public string Numero { get; set; }
         
         [Required(ErrorMessage = "Municipio é campo obrigatorio")]
-        public Guid MinicipioId { get; set; }
+        public Guid MunicipioId { get; set; }
     }
 }

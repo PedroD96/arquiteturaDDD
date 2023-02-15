@@ -10,7 +10,7 @@ namespace Api.Domain.Dtos.Cep
     {
         [Required(ErrorMessage = "Id é campo obrigatorio")]
         public Guid Id { get; set; }
-        
+
         [Required(ErrorMessage = "Cep é campo obrigatorio")]
         public string Cep { get; set; }
 
@@ -18,8 +18,8 @@ namespace Api.Domain.Dtos.Cep
         public string Logradouro { get; set; }
 
         public string Numero { get; set; }
-        
+
         [Required(ErrorMessage = "Municipio é campo obrigatorio")]
-        public Guid MinicipioId { get; set; }
+        public Guid MunicipioId { get; set; }
     }
 }
