@@ -4,6 +4,7 @@ D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\c
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Api.Application.Test.deps.json
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Api.Application.Test.runtimeconfig.json
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Api.Application.Test.runtimeconfig.dev.json
@@ -158,6 +159,5 @@ D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\c
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\obj\Debug\netcoreapp3.1\Api.Application.Test.dll
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\obj\Debug\netcoreapp3.1\Api.Application.Test.pdb
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\obj\Debug\netcoreapp3.1\Api.Application.Test.genruntimeconfig.cache
-D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
 D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\obj\Debug\netcoreapp3.1\Api.Application.Test.csproj.AssemblyReference.cache
+d:\Curso Udemy - NETCore 3.1 NET5-6 - C# API - Arquitetura com DDD na PRÁTICA\curso_api_netcore\src\Api.Application.Test\obj\Debug\netcoreapp3.1\Api.Application.Test.csprojAssemblyReference.cache

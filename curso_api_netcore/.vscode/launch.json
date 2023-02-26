@@ -21,12 +21,12 @@
             },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development",
-                "DB_CONNECTION": "Persist Security Info=Ture,Server=DESKTOP-N4S8L6T;Initial Catalog=DBApi;MultipleActiveResultSets=true;User ID=root;Password=1234",
+                "DB_CONNECTION": "Persist Security Info=True;Server=DESKTOP-N4S8L6T;Initial Catalog=DBApi_Integration;MultipleActiveResultSets=true;User ID=root;Password=1234",
                 "DATABASE": "SQLSERVER",
                 "MIGRATION": "APLICAR",
                 "Audience": "ExemploAudience",
                 "Issuer": "ExemploIssuer",
-                "Seconds": "3600"
+                "Seconds": "28800"
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"

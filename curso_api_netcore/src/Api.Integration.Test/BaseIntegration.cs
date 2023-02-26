@@ -48,7 +48,7 @@ namespace Api.Integration.Test
                 Email = "teste1@email.com.br"
             };
 
-            var resultLogin = await PostJsonAsync(loginDto, $"{hostApi}login", client);
+            var resultLogin = await PostJsonAsync(loginDto, $"{hostApi}Login", client);
             var jsonLogin = await resultLogin.Content.ReadAsStringAsync();
             var loginObject = JsonConvert.DeserializeObject<LoginResponseDto>(jsonLogin);
 
